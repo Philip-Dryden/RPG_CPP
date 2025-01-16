@@ -30,3 +30,22 @@
 *.exe
 *.out
 *.app
+
+# Build directory
+/build/
+/out/
+
+# CLion specific
+.idea/
+CMakeLists.txt.user
+
+# CMake cache files
+CMakeCache.txt
+CMakeFiles/
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Linux
+*~
